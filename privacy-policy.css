@@ -27,3 +27,13 @@ p {
 
     color: #FFFFFF;
 }
+
+@media (min-width: 1930px) {
+    h1 {
+        font-size: 60px;
+    }
+
+    p {
+        font-size: 35px;
+    }
+}
